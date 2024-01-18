@@ -1,0 +1,22 @@
+{
+  "name": "@ben_walsh/bw-lab2",
+  "version": "1.0.0",
+  "description": "A short description\r ## Purpose\r **_BEWARE:_ This library was published for learning purposes. It is _not_ int\r Describe the intended intent\r ## Usage\r **Install it:**\r `npm install @ben_walsh/bw-lab2`\r **Require it:**\r `const _ = require('@ben_walsh/ bw-lab2');`\r **Call it:**\r `const results = _.firstFunction()`\r ## Documentation\r The following functions are currently implemented:\r * `function1(...)`: description\r * `function2(...)`: description\r * `function3(...)`: description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ben_walsh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwalsh23/bw-lab2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benwalsh23/bw-lab2/issues"
+  },
+  "homepage": "https://github.com/benwalsh23/bw-lab2#readme",
+  "keywords": [
+    "@ben_walsh/bw-lab2"
+  ]
+}
