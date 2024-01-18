@@ -5,9 +5,9 @@ A short description
 Describe the intended intent
 ## Usage
 **Install it:**
-`npm install @ben_walsh/bw-lab2`
+`npm install ben_walshbw-lab2`
 **Require it:**
-`const _ = require('@ben_walsh/ bw-lab2');`
+`const _ = require('ben_walshbw-lab2');`
 **Call it:**
 `const results = _.firstFunction()`
 ## Documentation
